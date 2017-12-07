@@ -39,11 +39,12 @@ body {
 	padding-top: 10px;
 }
 
-/*Main Container==========================*/
+/*About Me (only on index.html============*/
 /*========================================*/
 
 .main-section {
 	margin-top: 35px;
+	margin-bottom: 90px;
 }
 
 .main-section-title {
@@ -61,9 +62,7 @@ body {
 
 #bio-image {
 	margin-top: 7px;
-	width: 162px;
-	height: 243px;
-	float: left;
+	width: 100%;
 	margin: auto;
 }
 
@@ -72,7 +71,6 @@ body {
 	color: #777777;
 	line-height: 2;
 	margin-bottom: 30px;
-	float: left;
 }
 
 /*Contact(only on contact.html)===========*/
